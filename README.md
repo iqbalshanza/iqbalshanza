@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋 I'm Ms. Iqbal</h1>
 <p align="center">Turning data into meaningful insights and building intelligent systems 🤖</p>
 
----
 
 ## 🚀 About Me
 - 🔭 Currently building **end-to-end Data Science & AI / Machine Learning projects**
