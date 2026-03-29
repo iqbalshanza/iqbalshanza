@@ -1,9 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 <h1 align="center">Hi 👋 I'm Ms. Iqbal</h1>
 <p align="center">Turning data into meaningful insights and building intelligent systems 🤖</p>
 
 ---
 
-## 🚀 About Me
+## About Me
 - 🔭 I’m currently building end-to-end **Data Science & AI / Machine Learning projects**
 - 🌱 I’m learning **Deep Learning, NLP, and MLOps**
 - 👯 I’m open to collaborating on **Machine Learning and AI Engineering Projects**  
