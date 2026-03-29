@@ -35,3 +35,10 @@
 
 ## 📊 GitHub Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalshanza&theme=radical"/> </p>
+
+
+Fix a bug
+Add documentation
+Improve code
+Update a README
+Push small features
