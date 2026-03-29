@@ -34,4 +34,4 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iqbalshanza&show_icons=true&theme=radical"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalshanza&theme=radical"/> </p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalshanza&theme=radical"/> </p>
