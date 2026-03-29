@@ -40,8 +40,12 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Info
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iqbalshanza&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalshanza&theme=radical"/>
+  ![Followers](https://img.shields.io/github/followers/iqbalshanza?label=Followers&style=social)
+  ![Repositories](https://img.shields.io/github/repo-size/iqbalshanza?label=Repo%20Size)
+  ![Top Languages](https://img.shields.io/github/languages/top/iqbalshanza?label=Top%20Language)
+  ![Total Commits](https://img.shields.io/github/commit-activity/m/iqbalshanza?label=Commits)
 </p>
+
