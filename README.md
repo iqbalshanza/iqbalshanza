@@ -34,16 +34,9 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalshanza
-&background=111027
-&ring=B16EC6
-&fire=B16EC6
-&currStreakLabel=925AA9
-&sideLabels=6C4E92
-&currStreakNum=FFFFFF
-&sideNums=FFFFFF
-&dates=34486D"/>
+  <img src="https://streak-stats.demolab.com?user=iqbalshanza&background=111027&ring=B16EC6&fire=B16EC6&currStreakLabel=925AA9&sideLabels=6C4E92&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=34486D"/>
 </p>
 
 
