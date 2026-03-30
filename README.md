@@ -33,13 +33,18 @@
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=iqbalshanza&background=111027&ring=B16EC6&fire=B16EC6&currStreakLabel=925AA9&sideLabels=6C4E92&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=34486D"/>
 </p>
+-->
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iqbalshanza&background=151A28&ring=00F0FF&fire=FF007F&currStreakLabel=00F0FF&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"/>
+</p> 
 Fix a bug
 Add documentation
 Improve code
